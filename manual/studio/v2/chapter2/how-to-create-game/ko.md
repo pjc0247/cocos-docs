@@ -11,6 +11,6 @@
 
 [Step 4:속성](../properties/about/en.md)
 
-[Step 5:디버그](../debug/en.md)
+[Step 5:디버그](../debug/ko.md)
 
 [Step 6:asset 내보내기](../publish-game/about/en.md)
