@@ -18,7 +18,7 @@ Please refer to [Step 3. Obtain a Facebook App ID - Getting Started with the Fac
 
 ![](images/modify_info_plist.jpg)
 
-**Step4**: Open target `myProject iOS` in the project root, open `Build Settings` page, then search for `Other Linker Flags`, and add `-ObjC` linker flag.
+**Step4**: Open target `myProject iOS` in the project root, open `Build Settings` page, then search for `Other Linker Flags`, and add `-ObjC` linker flag(Maybe you need to add `CoreVideo.framework` and `GameController.framework` if you compile failed).
 
 ![](images/linker_flag.jpg)
 

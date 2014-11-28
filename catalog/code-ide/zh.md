@@ -28,7 +28,7 @@
 
 - [开发环境配置指导](../../manual/code-ide/function-guides/env-configration/zh.md)
 - 工程管理指导
-    - [工程版本升级说明](/Users/wensheng/ccdt/cocos-docs/manual/code-ide/function-guides/project-management/upgrade-project/zh.md)
+    - [工程版本升级说明](../../manual/code-ide/function-guides/project-management/upgrade-project/zh.md)
 - 脚本调用C++代码指导
     - [Lua Runtime 绑定自定义类](../../manual/code-ide/function-guides/add-3rd-party-lib/binding-custom-class-to-lua/zh.md)
     - [JS Runtime 绑定自定义类](../../manual/code-ide/function-guides/add-3rd-party-lib/binding-custom-class-to-js/zh.md)
