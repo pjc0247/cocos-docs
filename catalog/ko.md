@@ -140,7 +140,7 @@
     		- [Edit Property](../manual/studio/v2/chapter2/properties/edit-properties/en.md)
     		- [Edit Asset](../manual/studio/v2/chapter2/properties/set-resources/en.md)
     		- [How to use 9-slice](../manual/studio/v2/chapter2/properties/scale-9-slice/en.md)
-    	- [Step 5:Debug Project](../manual/studio/v2/chapter2/debug/en.md)
+    	- [Step 5:Debug Project](../manual/studio/v2/chapter2/debug/ko.md)
     	- [Step 6:Output Assets](../manual/studio/v2/chapter2/publish-game/about/en.md)
     		- [Publish Assets](../manual/studio/v2/chapter2/publish-game/publish/en.md)
     - [How to use controls](../manual/studio/v2/chapter3/how-to-use-controls/en.md)
