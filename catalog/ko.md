@@ -124,7 +124,7 @@
     	- [Asset Workflow](../manual/studio/v2/chapter1/resources-workflow/ko.md)
     	- [샘플과 듀토리얼들](../manual/studio/v2/chapter1/samples-and-tutorial/ko.md)
     	- [환경 설정](../manual/studio/v2/chapter1/preference/en.md)
-    - [Create a game](../manual/studio/v2/chapter2/how-to-create-game/en.md)
+    - [게임 만들어 보기](../manual/studio/v2/chapter2/how-to-create-game/ko.md)
     	- [Step 1:new game project](../manual/studio/v2/chapter2/new-game/en.md)
     	- [Step 2:Add game assets](../manual/studio/v2/chapter2/add-resources/about/en.md)
     		- [New File](../manual/studio/v2/chapter2/add-resources/new-file/en.md)
