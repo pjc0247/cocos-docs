@@ -26,7 +26,7 @@
 		- 타일맵
 		- 액션
 		- Effects
-		- [Renderer](../manual/framework/native/v3/new-renderer/en.md) 
+		- [새 버전의 렌더러](../manual/framework/native/v3/new-renderer/ko.md) 
 		- 다양한 해상도를 지원하는 방법
 	- 오디오
 	- GUI
@@ -115,7 +115,7 @@
 - Studio
     - [Cocos Studio에 대한 소개](../manual/studio/v2/chapter1/fundamentals/ko.md)
     	- [UI 개요](../manual/studio/v2/chapter1/interface/about/ko.md)
-    		- [Toolbar](../manual/studio/v2/chapter1/interface/toolbar/en.md)
+    		- [툴바](../manual/studio/v2/chapter1/interface/toolbar/ko.md)
     		- [Controls Panel](../manual/studio/v2/chapter1/interface/controls/en.md)
     		- [Assets Panel](../manual/studio/v2/chapter1/interface/resources/en.md)
     		- [Canvas](../manual/studio/v2/chapter1/interface/canvas/en.md)
