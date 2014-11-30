@@ -34,7 +34,7 @@ Cocos2d-x v3.0beta버전부터 렌더러는 씬 그래프와 분리되었고, �
 
 ![architecture](./res/architexture.png)
 
-씬 그래프가 동작하는 동안 front-end 쓰레드에서는 다양한 **Command**들을 발생시키게 됩니다. 각각의 커멘드들은 분리된 back-end 쓰레드에서 실제로 처리되기 전까지 CommandQueue에 전송되서 대기하게 됩니다.
+씬 그래프가 동작하는 동안 front-end 쓰레드에서는 다양한 **Command**들을 발생시키게 됩니다. 각각의 커멘드들은 CommandQueue로 전송되어 분리된 back-end 쓰레드에서 실제로 처리되기 전까지 대기하게 됩니다.
 
 커멘드의 형식에 대한 설명은 이 문서의 범위를 넘어서기 때문에 로드맵 문서를 참고해 주세요.
 
