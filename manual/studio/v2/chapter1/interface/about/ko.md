@@ -9,7 +9,7 @@ Cocos Studio의 UI를 살펴보면, 상단에는 툴바, 중앙에는 캔버스�
 ![image](res/image001.jpg)
 
 
-[Toolbar](../toolbar/en.md)
+[Toolbar](../toolbar/ko.md)
 
 [Controls Panel](../controls/en.md)
 
